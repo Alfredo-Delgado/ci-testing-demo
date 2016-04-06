@@ -15,7 +15,6 @@ export const ViewModel = Map.extend({
 
         return name ? `おはよう, ${name}` : 'おはようございます';
       }
-      value: 'This is the morning-message component'
     }
   }
 });
